@@ -1,1 +1,0 @@
-Simple Discord Bot, just learning something new
