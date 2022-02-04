@@ -65,9 +65,15 @@ async def math(ctx, msg):
 
     await ctx.send(result)
 
+
+
 #TODO /play command
+'''
 @bot.slash_command(guild_ids = token_info.__testserverID, description = "Play a music passed by a youtube link")
 async def play(ctx, link):
     discord.VoiceChannel.connect()
+'''
+
+
 
 bot.run(token_info.__token)
